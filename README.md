@@ -1,1 +1,1 @@
-[![Build Status](https://cloud.drone.io/api/badges/Halil95/calc_starter_uebung/status.svg)](https://cloud.drone.io/Halil95/calc_starter_uebung)
+[![Build Status](https://cloud.drone.io/api/badges/Halil95/calc_starter_uebung/status.svg?ref=refs/heads/master)](https://cloud.drone.io/Halil95/calc_starter_uebung)
